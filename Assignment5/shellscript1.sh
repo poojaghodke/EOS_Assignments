@@ -1,0 +1,3 @@
+
+echo uname
+echo $Home
